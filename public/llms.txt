@@ -1,0 +1,16 @@
+# JSON as Table
+
+> A fast, browser-based JSON and CSV viewer and editor with synchronized Tree, Table, and Fields views, plus side-by-side compare. All processing happens client-side — nothing leaves your browser.
+
+JSON as Table lets you paste, upload, or drag in JSON or CSV and instantly explore it as an editable tree, spreadsheet, or flattened field list, with tabs for multiple documents open at once and a compare mode for diffing two structures. It is built and maintained by Control Edge AB.
+
+## Docs
+
+- [Privacy & Cookies](https://jsontable.io/#/privacy): How data is handled — nothing is sent to a server
+- [GitHub repository](https://github.com/Control-Edge/jsontable): Source code, issues, and releases
+- [Releases](https://github.com/Control-Edge/jsontable/releases): Version history and changelog
+
+## Related
+
+- [Control Edge AB](https://cedge.se): The company behind JSON as Table
+- [CppModel](https://cppmodel.com): Another developer tool by Control Edge AB
