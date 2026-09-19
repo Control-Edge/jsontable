@@ -1,0 +1,5 @@
+Contact: mailto:support@cedge.se
+Expires: 2027-09-19T00:00:00.000Z
+Policy: https://cppmodel.com/SecurityPolicy.html
+Preferred-Languages: en
+Canonical: https://jsontable.io/.well-known/security.txt
